@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @yuv and I have nothing to say here.  I prefer https://gitlab.com/
+Nothing to say here.  I prefer https://gitlab.com/
